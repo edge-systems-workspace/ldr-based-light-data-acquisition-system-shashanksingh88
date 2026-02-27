@@ -50,7 +50,7 @@ void loop() {
         // Print brightness status
         Serial.println("Bright Environment");
     } else {
-        //Serial.println("Dark Environment");
+        Serial.println("Dark Environment");
     }
 
     // TODO 9:
